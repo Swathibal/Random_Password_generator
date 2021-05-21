@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Random Password Generator</string>
+    <string name="lengthLabel">Length of the password</string>
+    <string name="editTextHint">Enter the length</string>
+    <string name="btn">Generate password</string>
+</resources>
